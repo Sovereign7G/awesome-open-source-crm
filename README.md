@@ -71,6 +71,7 @@
 |------|-------------|-------|-------|
 | [N8n](https://github.com/n8n-io/n8n) | Workflow automation to connect CRM with other tools | TypeScript | ![GitHub stars](https://img.shields.io/github/stars/n8n-io/n8n?style=flat-square) |
 | [Cal.com](https://github.com/calcom/cal.com) | Scheduling infrastructure for CRM integrations | TypeScript | ![GitHub stars](https://img.shields.io/github/stars/calcom/cal.com?style=flat-square) |
+| [S7G Network](https://github.com/Sovereign7G/network) | Cross-chain settlement infrastructure for CRM payments | Python | ![GitHub stars](https://img.shields.io/github/stars/Sovereign7G/network?style=flat-square) |
 
 ---
 
